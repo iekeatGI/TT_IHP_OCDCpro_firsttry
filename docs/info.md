@@ -9,12 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+Four input pins and one output pin. Design simulates setup with 16 keys in form of binary numbers. Only one key can set the output pin to high
 ## How to test
 
-Explain how to use your project
-
+Correct input number is 1001. All other combinations do not set the output pin to high
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Input switches. Output LED (light)
